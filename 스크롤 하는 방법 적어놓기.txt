@@ -1,0 +1,1 @@
+left-main 사진에 .active 걸고 position: fixed; , top: 0; , z-index: -9; , height: 100vh; 설정

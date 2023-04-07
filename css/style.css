@@ -1359,6 +1359,13 @@
         bottom: 50px;
         left: 50px;
     }
+    .banner .container .banner-txt .main-txt{
+        font-size: 44px;
+        padding-bottom: 40px;
+    }
+    .banner .container .banner-txt .sub-txt{
+        font-size: 28px;
+    }
     .sec-1{
         height: 235vh;
     }
@@ -1366,8 +1373,27 @@
         width: 190px;
         height: 250px;
     }
+    .sec-2 .container .txt-box .main-txt{
+        font-size: 28px;
+    }
     .sec-2 .container .txt-box .sub-txt{
         align-items: center;
+    }
+    .sec-2 .container .txt-box .sub-txt span{
+        font-size: 17px;
+    }
+    .sec-4 .container .txt-box .main .main-txt{
+        font-size: 28px;
+    }
+    .sec-4 .container .txt-box .main .btn li{
+        font-size: 18px;
+        padding: 8px 10px;
+    }
+    .sec-4 .container .txt-box .sub-txt span{
+        font-size: 17px;
+    }
+    .sec-4 .container .main-box .img-box-wrap{
+        padding: 40px 20px 0;
     }
 }
 

@@ -1354,6 +1354,22 @@
         padding: 0 25px 16px 25px;
     }
 }
+@media (max-width: 479px){
+    .banner .container .banner-txt{
+        bottom: 50px;
+        left: 50px;
+    }
+    .sec-1{
+        height: 235vh;
+    }
+    .sec-1 .sub-main-img .sub-img .box{
+        width: 190px;
+        height: 250px;
+    }
+    .sec-2 .container .txt-box .sub-txt{
+        align-items: center;
+    }
+}
 
 @media (max-width:375px){
     .banner .container .banner-top-btn{
